@@ -1,0 +1,224 @@
+{
+  "food":[
+      {
+          "name":"Sujata Family restaurant",
+          "item":"Mughlai, chinese, North India",
+          "cost1":"600",
+          "cost2":"700",
+          "total_votes":"300",
+          "review":"1.00",
+          "pay":"Only card",
+          "img":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/np13tsnfrxylkrk1ykm5"
+      },
+      {
+          "name":"Sujata Family restaurant",
+          "item":"Mughlai, chinese, North India",
+          "cost1":"600",
+          "cost2":"700",
+          "total_votes":"300",
+          "review":"1.00",
+          "pay":"Only card",
+          "img":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/np13tsnfrxylkrk1ykm5"
+      },
+      {
+          "name":"Sujata Family restaurant",
+          "item":"Mughlai, chinese, North India",
+          "cost1":"600",
+          "cost2":"700",
+          "total_votes":"300",
+          "review":"2.00",
+          "pay":"Only card",
+          "img":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/np13tsnfrxylkrk1ykm5"
+      },
+      {
+          "name":"Sujata Family restaurant",
+          "item":"Mughlai, chinese, North India",
+          "cost1":"600",
+          "cost2":"700",
+          "total_votes":"300",
+          "review":"2.00",
+          "pay":"Only card",
+          "img":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/np13tsnfrxylkrk1ykm5"
+      },
+      {
+          "name":"Sujata Family restaurant",
+          "item":"Mughlai, chinese, North India",
+          "cost1":"600",
+          "cost2":"700",
+          "total_votes":"300",
+          "review":"2.10",
+          "pay":"Only card",
+          "img":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/np13tsnfrxylkrk1ykm5"
+      },
+      {
+          "name":"Sujata Family restaurant",
+          "item":"Mughlai, chinese, North India",
+          "cost1":"600",
+          "cost2":"700",
+          "total_votes":"300",
+          "review":"2.20",
+          "pay":"Only card",
+          "img":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/np13tsnfrxylkrk1ykm5"
+      },
+      {
+          "name":"Sujata Family restaurant",
+          "item":"Mughlai, chinese, North India",
+          "cost1":"600",
+          "cost2":"700",
+          "total_votes":"300",
+          "review":"3.00",
+          "pay":"Only card",
+          "img":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/np13tsnfrxylkrk1ykm5"
+      },
+      {
+          "name":"Sujata Family restaurant",
+          "item":"Mughlai, chinese, North India",
+          "cost1":"600",
+          "cost2":"700",
+          "total_votes":"300",
+          "review":"3.10",
+          "pay":"Only card",
+          "img":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/np13tsnfrxylkrk1ykm5"
+      },
+      {
+          "name":"Sujata Family restaurant",
+          "item":"Mughlai, chinese, North India",
+          "cost1":"600",
+          "cost2":"700",
+          "total_votes":"300",
+          "pay":"Only card",
+          "review":"3.10",
+          "img":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/np13tsnfrxylkrk1ykm5"
+      },
+     {
+          "name":"Sujata Family restaurant",
+          "item":"Mughlai, chinese, North India",
+          "cost1":"600",
+          "cost2":"700",
+          "total_votes":"300",
+          "pay":"Only card",
+          "review":"2.00",
+           "img":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/np13tsnfrxylkrk1ykm5"
+      },
+      {
+          "name":"Sujata Family restaurant",
+          "item":"Mughlai, chinese, North India",
+          "cost1":"600",
+          "cost2":"700",
+          "total_votes":"300",
+          "pay":"Only card",
+          "review":"2.00",
+           "img":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/np13tsnfrxylkrk1ykm5"
+      },
+      {
+          "name":"Sujata Family restaurant",
+          "item":"Mughlai, chinese, North India",
+          "cost1":"600",
+          "cost2":"700",
+          "total_votes":"300",
+          "pay":"Only card",
+          "review":"2.50",
+           "img":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/np13tsnfrxylkrk1ykm5"
+      },
+      {
+          "name":"Sujata Family restaurant",
+          "item":"Mughlai, chinese, North India",
+          "cost1":"600",
+          "cost2":"700",
+          "total_votes":"300",
+          "pay":"Only card",
+          "review":"4.00",
+           "img":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/np13tsnfrxylkrk1ykm5"
+      },
+      {
+          "name":"Sujata Family restaurant",
+          "item":"Mughlai, chinese, North India",
+          "cost1":"600",
+          "cost2":"700",
+          "total_votes":"300",
+          "pay":"Only cash",
+          "review":"4.00",
+           "img":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/np13tsnfrxylkrk1ykm5"
+      },
+      {
+          "name":"Sujata Family restaurant",
+          "item":"Mughlai, chinese, North India",
+          "cost1":"600",
+          "cost2":"700",
+          "total_votes":"300",
+          "pay":"Only cash",
+          "review":"4.5",
+           "img":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/np13tsnfrxylkrk1ykm5"
+      },
+      {
+          "name":"Sujata Family restaurant",
+          "item":"Mughlai, chinese, North India",
+          "cost1":"600",
+          "cost2":"700",
+          "total_votes":"300",
+          "pay":"Only cash",
+          "review":"4.00",
+           "img":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/np13tsnfrxylkrk1ykm5"
+      },
+      {
+          "name":"Sujata Family restaurant",
+          "item":"Mughlai, chinese, North India",
+          "cost1":"600",
+          "cost2":"700",
+          "total_votes":"300",
+          "pay":"Only cash",
+          "review":"4.00",
+           "img":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/np13tsnfrxylkrk1ykm5"
+      },
+      {
+          "name":"Sujata Family restaurant",
+          "item":"Mughlai, chinese, North India",
+          "cost1":"600",
+          "cost2":"700",
+          "pay":"Only cash",
+          "total_votes":"300",
+          "review":"4.10",
+           "img":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/np13tsnfrxylkrk1ykm5"
+      },
+      {
+          "name":"Sujata Family restaurant",
+          "item":"Mughlai, chinese, North India",
+          "cost1":"600",
+          "cost2":"700",
+          "pay":"Only cash",
+          "total_votes":"300",
+          "review":"3.00",
+           "img":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/np13tsnfrxylkrk1ykm5"
+      },
+      {
+          "name":"Sujata Family restaurant",
+          "item":"Mughlai, chinese, North India",
+          "cost1":"600",
+          "cost2":"700",
+          "pay":"Only cash",
+          "total_votes":"300",
+          "review":"4.00",
+           "img":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/np13tsnfrxylkrk1ykm5"
+      },
+      {
+          "name":"Sujata Family restaurant",
+          "item":"Mughlai, chinese, North India",
+          "pay":"Only cash",
+          "cost1":"600",
+          "cost2":"700",
+          "total_votes":"300",
+          "review":"2.00",
+           "img":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/np13tsnfrxylkrk1ykm5"
+      },
+      {   
+          "pay":"Only cash",
+          "name":"Sujata Family restaurant",
+          "item":"Mughlai, chinese, North India",
+          "cost1":"600",
+          "cost2":"700",
+          "total_votes":"300",
+          "review":"4.00",
+           "img":"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/np13tsnfrxylkrk1ykm5"
+      }
+  ]
+}
